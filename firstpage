@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>My first web page</h1>
-    <h2>Built at Epicodus</h2>
+    <h2>Built at <strong>Epicodus</strong></h2>
 
     <p>This is my first wep page</p>
     <p>Isn't this nice?</P>
@@ -15,7 +15,7 @@
       <li>HTML</li>
       <li>CSS</li>
       <li>JavaScript</li>
-      <li>And much more!</li>
+      <li>And <em>much</em> more!</li>
     </ul>
   </body>
 </html>
